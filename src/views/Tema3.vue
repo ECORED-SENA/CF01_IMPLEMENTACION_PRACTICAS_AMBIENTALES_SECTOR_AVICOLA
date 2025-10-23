@@ -63,7 +63,7 @@
         ul.lista-ul--color.ms-5
           li.mb-0.d-flex
             i.fa-solid.fa-circle-right.bg-color-7
-            p.mb-0 <b>Resolución 1362 de 2007</b>. Registro de Generadores de Residuos o Desechos Peligrosos.
+            p.mb-0 <b>Resolución 1362 de 2007</b>. Registro de generadores de residuos o desechos peligrosos.
           li.mb-0.d-flex
             i.fa-solid.fa-circle-right.bg-color-7
             p.mb-0 <b>Decreto 2981 de 2013</b>. Reglamenta la prestación del servicio público de aseo.

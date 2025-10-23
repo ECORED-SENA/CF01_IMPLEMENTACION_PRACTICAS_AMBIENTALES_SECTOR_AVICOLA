@@ -13,14 +13,14 @@
           img(src="@/assets/curso/tema6/1.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1
         .bg-color-2.p-5(data-aos="fade-left")
-          p Un impacto ambiental es el cambio positivo o negativo que genera una obra, proyecto o actividad, en este caso hace referencia a los efectos que generan las diferentes actividades asociadas al sector avícola en los componentes ambientales (agua, suelo, aire, paisaje, flora, fauna, socioeconómico, entre otros). 
+          p Un impacto ambiental es el cambio positivo o negativo que genera una obra, proyecto o actividad; en este caso hace referencia a los efectos que generan las diferentes actividades asociadas al sector avícola en los componentes ambientales (agua, suelo, aire, paisaje, flora, fauna, socioeconómico, entre otros). 
     
     separador
     
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 6.1 Determinación de componentes ambientales afectados
     
-    p.mb-5 Para lograr identificar y valorar los impactos ambientales existen diferentes metodologías, sin embargo, es importante que previo a la identificación de los impactos se establezca la relación entre los componentes ambientales y las acciones que los pueden generar, esto puede realizarse mediante una matriz cualitativa, tal como se describe en el siguiente ejemplo:
+    p.mb-5 Para lograr identificar y valorar los impactos ambientales, existen diferentes metodologías; sin embargo, es importante que, previo a la identificación de los impactos, se establezca la relación entre los componentes ambientales y las acciones que los pueden generar. Esto puede realizarse mediante una matriz cualitativa, tal como se describe en el siguiente ejemplo:
 
     .tarjeta.color-primario.bg-color-9.p-3.mb-5
       .row.justify-content-around.align-items-center
@@ -32,7 +32,7 @@
               h3.bg-color-10 Componentes ambientales
               p.text-white Se invita a leer el documento Componentes ambientales, donde se aborda la identificación de los factores físicos, bióticos y sociales que pueden verse influenciados por las actividades del sector avícola.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_Componentes ambientales.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     
@@ -88,7 +88,7 @@
         #t_6_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 6.3 Nombres de los impactos
     
-    p.mb-5 Para determinar el nombre del impacto se recomienda que contenga una palabra o verbo que indique el sentido del cambio, como, por ejemplo: contaminación, mejoramiento, deterioro, incremento, reducción, pérdida, ganancia, entre otros (Arboleda, 2005). Para tomar como referencia algunos nombres de impactos puede tomar como referencia el listado de impactos ambientales específicos definido por el Ministerio de Ambiente y Desarrollo Sostenible (2021). Algunos de los impactos que pueden tomarse como referencia son los siguientes:
+    p.mb-5 Para determinar el nombre del impacto, se recomienda que contenga una palabra o verbo que indique el sentido del cambio, como, por ejemplo: contaminación, mejoramiento, deterioro, incremento, reducción, pérdida, ganancia, entre otros (Arboleda, 2005). Para tomar como referencia algunos nombres de impactos, puede tomar como referencia el listado de impactos ambientales específicos definido por el Ministerio de Ambiente y Desarrollo Sostenible (2021). Algunos de los impactos que pueden tomarse como referencia son los siguientes:
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -161,7 +161,7 @@
               figure
                 img(src="@/assets/curso/tema6/15.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
-              h5 Flora y Fauna
+              h5 Flora y fauna
               ul.lista-ul--color
                 li.mb-2.d-flex
                   i.fa-solid.fa-circle-right.bg-color-7
@@ -249,7 +249,7 @@
                   tr
                     th Extensión
                     td EX
-                    td Área de influencia teórica del impacto en relación con el entorno de la actividad (% de área, respecto al entorno, en que se manifiesta el efecto). Si la acción produce un efecto muy localizado, se considera que el impacto tiene un carácter puntual (1). Si, por el contrario, el impacto no admite una ubicación precisa del entorno de la actividad, teniendo una influencia generalizada en todo él, el impacto será Total (8).
+                    td Área de influencia teórica del impacto en relación con el entorno de la actividad (% de área, respecto al entorno, en que se manifiesta el efecto). Si la acción produce un efecto muy localizado, se considera que el impacto tiene un carácter puntual (1). Si, por el contrario, el impacto no admite una ubicación precisa del entorno de la actividad, teniendo una influencia generalizada en todo él, el impacto será total (8).
                   tr
                     th Momento
                     td Mo
@@ -273,7 +273,7 @@
                   tr
                     th Acumulación
                     td Ac
-                    td Este atributo da idea del incremento progresivo de la manifestación del efecto cuando persiste de forma continuada o reiterada la acción que lo genera. Cuando una acción no produce efectos acumulativos (acumulación simple), el efecto se valora como uno (1); si el efecto producido es acumulativo el valor se incrementa a cuatro (4).
+                    td Este atributo da idea del incremento progresivo de la manifestación del efecto cuando persiste de forma continuada o reiterada la acción que lo genera. Cuando una acción no produce efectos acumulativos (acumulación simple), el efecto se valora como uno (1); si el efecto producido es acumulativo, el valor se incrementa a cuatro (4).
                   tr
                     th Efecto
                     td Ef

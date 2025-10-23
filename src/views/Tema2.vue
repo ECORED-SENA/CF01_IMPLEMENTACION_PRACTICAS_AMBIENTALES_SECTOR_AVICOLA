@@ -20,7 +20,7 @@
               h5 Intensivo
               p Se caracteriza porque las aves están alojadas en espacios cerrados, más conocidos como galpones tecnificados, lo cual hace necesario concentrar más aves por área. Esto busca generar mayor eficiencia en la producción. Por lo tanto, el manejo operativo de estos sistemas requiere de medidas y herramientas que garanticen el buen estado de las aves. Se deben realizar inversiones en tecnologías y cumplir con protocolos para prevenir enfermedades y proliferación de plagas.
 
-              p Según la empresa FINCA (s.f), en sistemas de piso para gallinas ponedoras la densidad recomendada es de 7 a 9 aves/m², mientras que en pollos de engorde se recomienda una densidad de 10 a 12 aves/m².
+              p Según la empresa FINCA (s.f), en sistemas de piso para gallinas ponedoras, la densidad recomendada es de 7 a 9 aves/m², mientras que en pollos de engorde se recomienda una densidad de 10 a 12 aves/m².
 
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
