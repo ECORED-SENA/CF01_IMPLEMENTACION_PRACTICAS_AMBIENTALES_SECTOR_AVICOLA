@@ -38,7 +38,7 @@
                 img(src="@/assets/curso/tema2/3.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Extensivo
-              p Las aves cuentan con espacios o ambientes al aire libre, lo cual indica que se requieren mayores áreas para su producción. Es un sistema tradicional, por lo que puede encontrarse en muchas granjas donde la producción avícola se desarrolla para el autoconsumo o para abastecer a pequeñas comunidades. En este caso se requieren pocas inversiones, los espacios no cuentan con barreras ni lugares específicos para las aves.
+              p Las aves cuentan con espacios o ambientes al aire libre, lo cual indica que se requieren mayores áreas para su producción. Es un sistema tradicional, por lo que puede encontrarse en muchas granjas donde la producción avícola se desarrolla para el autoconsumo o para abastecer a pequeñas comunidades. En este caso se requieren pocas inversiones; los espacios no cuentan con barreras ni lugares específicos para las aves.
 
 </template>
 

@@ -17,7 +17,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/intro/1.png')})`}"
           )(data-aos="zoom-in")
           .bloque-texto-g__texto.p-4
-            p.mb-0 El componente formativo: Evaluación de impactos ambientales en los procesos productivos avícolas,  se centra en identificar, describir y valorar los aspectos e impactos ambientales generados en las diferentes etapas del sistema avícola. Para ello, se revisan los procesos de granjas, incubadoras y plantas de beneficio, junto con las metodologías que permiten establecer la magnitud y significancia de los impactos. Este enfoque busca dotar a los estudiantes de herramientas técnicas que les permitan analizar de manera crítica las interacciones entre la producción avícola y el entorno.
+            p.mb-0 El componente formativo: evaluación de impactos ambientales en los procesos productivos avícolas  se centra en identificar, describir y valorar los aspectos e impactos ambientales generados en las diferentes etapas del sistema avícola. Para ello, se revisan los procesos de granjas, incubadoras y plantas de beneficio, junto con las metodologías que permiten establecer la magnitud y significancia de los impactos. Este enfoque busca dotar a los estudiantes de herramientas técnicas que les permitan analizar de manera crítica las interacciones entre la producción avícola y el entorno.
         
         .row.mb-5
           .col-lg-2.order-lg-2.mb-3.mb-lg-0
