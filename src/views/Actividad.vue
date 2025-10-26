@@ -29,7 +29,7 @@ export default {
         {
           id: 1,
           texto:
-            '¿Qué objetivo tiene la identificación de impactos ambientales en el sector avícola??',
+            '¿Qué objetivo tiene la identificación de impactos ambientales en el sector avícola?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
