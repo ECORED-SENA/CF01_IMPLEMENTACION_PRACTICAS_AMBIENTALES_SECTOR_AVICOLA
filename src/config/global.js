@@ -142,7 +142,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/21230074_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -316,7 +316,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'xyz xyz',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
