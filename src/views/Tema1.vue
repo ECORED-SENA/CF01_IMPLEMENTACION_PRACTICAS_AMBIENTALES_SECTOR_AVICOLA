@@ -150,7 +150,7 @@
                 td Levante
                 td 18 a 20 semanas
                 td 18 a 20 semanas
-                td —
+                td 28 a 35 días
               tr
                 td Producción
                 td Semana 21 a 61
@@ -241,12 +241,7 @@
       span Proceso de beneficio de aves
 
     figure
-      img.mb-2(src="@/assets/curso/tema1/20.svg", data-aos="zoom-in", alt="Diagrama del proceso de beneficio de aves que incluye etapas como recepción, insensibilización, degüello, escaldado, pelado, corte de patas, evisceración, preenfriamiento, enfriamiento, empaque y lavado de la planta. ")
-
-
-
-    
- 
+      img.mb-2(src="@/assets/curso/tema1/20.svg", data-aos="zoom-in", alt="Diagrama del proceso de beneficio de aves que incluye etapas como recepción, insensibilización, degüello, escaldado, pelado, corte de patas, evisceración, preenfriamiento, enfriamiento, empaque y lavado de la planta.")
  
 </template>
 

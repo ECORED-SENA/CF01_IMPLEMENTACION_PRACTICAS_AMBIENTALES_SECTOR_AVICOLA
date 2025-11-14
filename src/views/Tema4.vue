@@ -28,7 +28,7 @@
       h5 Tabla 2.
       span Requisitos de bioseguridad e infraestructura
     
-    .tabla-a.color-acento-contenido.mb-5.pst
+    .tabla-a.color-acento-contenido.pst
       table
         thead
           tr
@@ -37,46 +37,92 @@
         tbody.bg-color-sintesis
           tr
             td Ubicación y distancias
-            td 
-              p.mb-0 - La distancia entre galpones debe ser como mínimo igual al ancho de cada galpón.
-              p.mb-0 - La distancia entre un galpón y la cerca perimetral debe ser igual o superior a 50 metros.
-              p.mb-0 - La distancia entre cercos perimetrales de una granja de postura o levante y una granja de material genético debe ser de mínimo 1 km.
-              p.mb-0 - La distancia entre el cerco perimetral y otras granjas avícolas o porcícolas debe ser de al menos 500 metros.
-              p.mb-0 - La distancia al cerco perimetral de rellenos sanitarios o centros de procesamiento de residuos que generen riesgos debe ser de mínimo 3 km.
+            td
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.lista-ul__vineta
+                  | La distancia entre galpones debe ser como mínimo igual al ancho de cada galpón.
+                li.d-flex
+                  i.lista-ul__vineta
+                  | La distancia entre un galpón y la cerca perimetral debe ser igual o superior a 50 metros.
+                li.d-flex
+                  i.lista-ul__vineta
+                  | La distancia entre cercos perimetrales de una granja de postura o levante y una granja de material genético debe ser de mínimo 1 km.
+                li.d-flex
+                  i.lista-ul__vineta
+                  | La distancia entre el cerco perimetral y otras granjas avícolas o porcícolas debe ser de al menos 500 metros.
+                li.d-flex.mb-0
+                  i.lista-ul__vineta
+                  | La distancia al cerco perimetral de rellenos sanitarios o centros de procesamiento de residuos que generen riesgos debe ser de mínimo 3 km.
           tr
             td Infraestructura perimetral
             td 
-              p.mb-0 - El cerco perimetral debe impedir el ingreso de personas, vehículos y animales ajenos a la producción.
-              p.mb-0 - Debe existir señalización correspondiente en cada área.
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.lista-ul__vineta
+                  | El cerco perimetral debe impedir el ingreso de personas, vehículos y animales ajenos a la producción.
+                li.d-flex.mb-0
+                  i.lista-ul__vineta
+                  | Debe existir señalización correspondiente en cada área.
           tr
             td Sistemas de control sanitario
             td 
-              p.mb-0 - Contar con sistemas de desinfección.
-              p.mb-0 - Contar con un área destinada al manejo y disposición de mortalidades, ubicada fuera de las zonas de producción.
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Contar con sistemas de desinfección.
+                li.d-flex.mb-0
+                  i.lista-ul__vineta
+                  | Contar con un área destinada al manejo y disposición de mortalidades, ubicada fuera de las zonas de producción.
           tr
             td Almacenamiento
-            td 
-              p.mb-0 - Disponer de bodega para almacenamiento de alimentos, que cumpla con los requerimientos técnicos establecidos.
-              p.mb-0 - Área para el almacenamiento de insumos veterinarios.
-              p.mb-0 - Bodega de equipos.
-              p.mb-0 - Área para la disposición de residuos.
-              p.mb-0 - Zona de almacenamiento, clasificación y embalaje de huevos.
+            td
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Disponer de bodega para almacenamiento de alimentos, que cumpla con los requerimientos técnicos establecidos.
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Área para el almacenamiento de insumos veterinarios.
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Bodega de equipos.
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Área para la disposición de residuos.
+                li.d-flex.mb-0
+                  i.lista-ul__vineta
+                  | Zona de almacenamiento, clasificación y embalaje de huevos.
           tr
             td Gestión operativa
-            td 
-              p.mb-0 - Cumplir con los procedimientos operativos estandarizados (POE).
-              p.mb-0 - Contar con unidades sanitarias.
-              p.mb-0 - Área para el tratamiento y almacenamiento de agua.
-              p.mb-0 - Cabina de desinfección.
+            td
+              ul.lista-ul.mb-0
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Cumplir con los procedimientos operativos estandarizados (POE).
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Contar con unidades sanitarias.
+                li.d-flex
+                  i.lista-ul__vineta
+                  | Área para el tratamiento y almacenamiento de agua.
+                li.d-flex.mb-0
+                  i.lista-ul__vineta
+                  | Cabina de desinfección.
           tr
             td Condiciones ambientales
-            td 
-              p.mb-0 - Todas las áreas deben contar con ventilación e iluminación natural o artificial adecuadas.
+            td
+              ul.lista-ul.mb-0
+                li.d-flex.mb-0
+                  i.lista-ul__vineta
+                  | Todas las áreas deben contar con ventilación e iluminación natural o artificial adecuadas.
           tr
             td Control de calidad
             td 
-              p.mb-0 - Disponer de un área exclusiva para productos no conformes.
-
+              ul.lista-ul.mb-0
+                li.d-flex.mb-0
+                  i.lista-ul__vineta
+                  | Disponer de un área exclusiva para productos no conformes.
 
 </template>
 

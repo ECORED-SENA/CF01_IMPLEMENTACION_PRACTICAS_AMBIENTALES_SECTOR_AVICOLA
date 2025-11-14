@@ -25,7 +25,7 @@
     
     p.mb-5 A continuación, se describen los principales aspectos ambientales que se relacionan con los procesos del sector avícola:
 
-    .bg-full-width.bg-fondo-slider.mb-5
+    .bg-full-width.bg-fondo-slider
       .p-4.p-md-5
         SlyderA(tipo="b").bg-color-white-1.p-4.tarjeta
           .row.align-items-center.p-4.p-md-5
@@ -81,9 +81,6 @@
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Proceso productivo
               p <b>Biótico (fauna), social (bienestar y economía), aire</b>: contribución a la economía local, pero también se generan emisiones y expectativas comunitarias frente a la producción.
-
-
-
 
 </template>
 

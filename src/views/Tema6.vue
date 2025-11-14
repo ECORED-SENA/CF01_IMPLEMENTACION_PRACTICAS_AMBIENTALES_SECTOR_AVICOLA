@@ -240,47 +240,58 @@
                 tbody.bg-color-sintesis
                   tr
                     th Signo
-                    td +/-
+                    td
+                      p.text-center +/-
                     td Hace alusión al carácter benéfico (+) o perjudicial (-) de las distintas acciones que van a actuar sobre los distintos factores considerados
                   tr
                     th Intensidad
-                    td IN
+                    td
+                      p.text-center IN
                     td Grado de incidencia de la acción sobre el factor en el ámbito específico en el que actúa. Varía entre 1 y 12, siendo 12 la expresión de la destrucción total del factor en el área en la que se produce el efecto y 1 una mínimo afectación.
                   tr
                     th Extensión
-                    td EX
+                    td
+                      p.text-center EX
                     td Área de influencia teórica del impacto en relación con el entorno de la actividad (% de área, respecto al entorno, en que se manifiesta el efecto). Si la acción produce un efecto muy localizado, se considera que el impacto tiene un carácter puntual (1). Si, por el contrario, el impacto no admite una ubicación precisa del entorno de la actividad, teniendo una influencia generalizada en todo él, el impacto será total (8).
                   tr
                     th Momento
-                    td Mo
+                    td
+                      p.text-center Mo
                     td Alude al tiempo entre la aparición de la acción que produce el impacto y el comienzo de las afectaciones sobre el factor considerado. Si el tiempo transcurrido es nulo, el momento será Inmediato, y si es inferior a un año, Corto plazo, asignándole en ambos casos un valor de cuatro (4). Si es un período de tiempo mayor a cinco años, Largo Plazo (1).
                   tr
                     th Persistencia
-                    td PE
+                    td
+                      p.text-center PE
                     td Tiempo que permanecerá el efecto desde su aparición y, a partir del cual el factor afectado retornaría a las condiciones iniciales previas a la acción por los medios naturales o mediante la introducción de medidas correctoras.
                   tr
                     th Reversibilidad
-                    td Rv
+                    td
+                      p.text-center Rv
                     td Se refiere a la posibilidad de reconstrucción del factor afectado, es decir, la posibilidad de retornar a las condiciones iniciales previas a la acción, por medios naturales, una vez aquel deje de actuar sobre el medio.
                   tr
                     th Recuperabilidad
-                    td Mc
+                    td
+                      p.text-center Mc
                     td Se refiere a la posibilidad de reconstrucción, total o parcial, del factor afectado, es decir, la posibilidad de retornar a las condiciones iniciales previas a la acción, por medio de la intervención humana. Cuando el efecto es irrecuperable (alteración imposible de reparar, tanto por la acción natural, como por la humana) le asignamos el valor de ocho (8). En caso de ser irrecuperable, pero existe la posibilidad de introducir medidas compensatorias, el valor adoptado será cuatro (4).
                   tr
                     th Sinergia
-                    td Si
+                    td
+                      p.text-center Si
                     td Este atributo contempla el reforzamiento de dos o más efectos simples. La componente total de la manifestación de los efectos simples, provocados por acciones que actúan simultáneamente, es superior a la que cabría de esperar cuando las acciones que las provocan actúan de manera independiente, no simultánea.
                   tr
                     th Acumulación
-                    td Ac
+                    td
+                      p.text-center Ac
                     td Este atributo da idea del incremento progresivo de la manifestación del efecto cuando persiste de forma continuada o reiterada la acción que lo genera. Cuando una acción no produce efectos acumulativos (acumulación simple), el efecto se valora como uno (1); si el efecto producido es acumulativo, el valor se incrementa a cuatro (4).
                   tr
                     th Efecto
-                    td Ef
+                    td
+                      p.text-center Ef
                     td Este atributo se refiere a la relación causa-efecto, o sea, a la forma de manifestación del efecto sobre un factor, como consecuencia de una acción. Puede ser directo o primario, siendo en este caso la repercusión de la acción consecuencia directa de ésta, o indirecto o secundario.
                   tr
                     th Periodicidad
-                    td Pr
+                    td
+                      p.text-center Pr
                     td Se refiere a la regularidad de manifestación del efecto, bien sea de manera cíclica o recurrente (efecto periódico), de forma impredecible en el tiempo (efecto irregular) o constante en el tiempo (efecto continuo)
     
     .row.justify-content-center.mb-5
@@ -371,7 +382,9 @@
           p Si un impacto tiene los siguientes valores:
           h5 IN = 4  EX = 2  MO = 4  PE = 2  RV = 2  SI = 1  AC = 4  EF = 4  PR = 2  MC = 2 
           p Entonces la importancia se calcula así:
-          h5 I = (3x4) + (2x2) + 4 + 2 + 2 + 1 + 4 + 4 + 2 + 2 = 12 + 4 + 4 + 2 + 2 + 1 + 4 + 4 + 2 + 2 = 37
+          h5 I = (3x4) + (2x2) + 4 + 2 + 2 + 1 + 4 + 4 + 2 + 2
+          h5 I = 12 + 4 + 4 + 2 + 2 + 1 + 4 + 4 + 2 + 2
+          h5.mb-0 I = 37
     
     p.mb-5 Se debe interpretar dicho valor según la siguiente escala de significancia, que clasifica el impacto ambiental de acuerdo con su severidad.
 

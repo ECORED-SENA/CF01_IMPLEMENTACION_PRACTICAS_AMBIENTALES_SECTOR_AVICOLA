@@ -142,7 +142,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/21230074_CF01_DU.pdf',
+        download: 'downloads/21230074_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -178,7 +178,7 @@ export default {
       referencia:
         'Cortes, M. (2025). Matriz evaluación de impactos ambientales',
       tipo: 'Excel ',
-      link: 'Adjunto ',
+      descarga: 'downloads/Formato_matriz_impacto_ambiental.xlsx',
     },
   ],
   glosario: [
