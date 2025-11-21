@@ -1,9 +1,9 @@
 export default {
   global: {
     Name:
-      'Evaluación de impactos ambientales en los procesos productivos avícolas.',
+      'Evaluación de impactos ambientales en los procesos productivos avícolas',
     Description:
-      'Este componente describe las características de los procesos productivos desarrollados en el sector avícola y sus aspectos e impactos asociados, posteriormente; se identifican y se describen los métodos que pueden aplicarse para valorar dichos impactos, buscando establecer la significancia o magnitud en relación a los procesos inherentes al sector avícola, siendo esto la base para luego establecer las medidas de manejo ambiental de tipo preventivo, de mitigación o compensación para establecer los correspondientes controles en pro de desarrollar las actividades de manera sostenible. ',
+      'Este componente describe las características de los procesos productivos desarrollados en el sector avícola y sus aspectos e impactos asociados, posteriormente; se identifican y se describen los métodos que pueden aplicarse para valorar dichos impactos, buscando establecer la significancia o magnitud en relación a los procesos inherentes al sector avícola, siendo esto la base para luego establecer las medidas de manejo ambiental de tipo preventivo, de mitigación o compensación para establecer los correspondientes controles en pro de desarrollar las actividades de manera sostenible.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
